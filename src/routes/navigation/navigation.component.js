@@ -69,7 +69,7 @@ function Navigation() {
             <li className="nav-item">
               <NavLink
                 exact
-                to="/sign-in"
+                to="/auth"
                 activeClassName="active"
                 className="nav-links"
                 onClick={handleClick}
